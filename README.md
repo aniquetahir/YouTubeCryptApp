@@ -10,4 +10,4 @@ The application is going to have two parts:
 
 -Decrypting and Viewing.
 
-Because of CORS, this cannot be implemented as a web application. However, it is still possible to make browser addon and desktop applications.
+Because of CORS, this cannot be implemented as a web application. However, it is still possible to make a browser addon or a desktop/mobile application.
